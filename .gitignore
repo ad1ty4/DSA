@@ -5,6 +5,8 @@ src/main/resources/application-local.properties
 !**/src/main/**
 !**/src/test/**
 \$\{sys\:log_path\}/
+java/production/
+*.class
 
 ### STS ###
 .apt_generated
